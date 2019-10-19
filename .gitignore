@@ -1,0 +1,4 @@
+.idea/
+.env
+db_slackbutton_slash_command/
+node_modules/
